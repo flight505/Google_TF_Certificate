@@ -1,5 +1,6 @@
  ![Tensorflow](https://img.shields.io/badge/Tensorflow-Advanced-Black)
- ## My path to the Google TensorFlow certificate exam
+
+ ## Google TensorFlow certificate exam
 
 #### Exam details
 Criteria
